@@ -1,0 +1,1 @@
+ install node modules to root folder, backend folder AND frontend folder
